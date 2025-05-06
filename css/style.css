@@ -85,10 +85,10 @@ img {
 .introducao {
   font-size: 3em;
   line-height: 1;
-  max-width: 960px;
+  max-width: 1560px;
   margin: 0 auto;
-  padding: 60px 10px;
-  border-bottom: 2px solid #000;
+  padding: 60px 20px;
+  border-bottom: 3px solid #000;
 }
 
 .sobre {
@@ -96,7 +96,7 @@ img {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap; /* permite quebrar linha em telas pequenas */
-  gap: 20px;
+  gap: 30px;
   padding: 40px 20px;
 }
 
@@ -146,7 +146,7 @@ img {
 }
 
 .produtos {
-  max-width: 960px;
+  max-width: 1260px;
   margin: 60px auto;
 }
 .produtos h1 {
